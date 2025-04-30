@@ -1052,4 +1052,4 @@ const (
 	SupportPackageIsVersion9 = true
 )
 
-const grpcUA = "grpc-go/" + Version
+const grpcUA = "service/1.0.0"
